@@ -2,13 +2,14 @@
 
 The scripts implement the theoretical framework described in the paper:
 
-'Optimal Flip Angles for In Vivo Liver 3D T1 Mapping and B1+ Mapping at 3T'
+**Optimal Flip Angles for In Vivo Liver 3D T1 Mapping and B1+ Mapping at 3T**
 
 Gabriela Belsley (1), Damian J. Tyler (1), Matthew D. Robson (1,2), Elizabeth M. Tunnicliffe (1)
 
 (1) Oxford Centre for Clinical Magnetic Resonance Research, Division of
 Cardiovascular Medicine, Radcliffe Department of Medicine, University of Oxford,
 Oxford, UK.
+
 (2) Perspectum, Oxford, UK
 
 ---------------------------------------------
