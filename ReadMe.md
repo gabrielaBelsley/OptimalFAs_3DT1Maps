@@ -1,6 +1,7 @@
 # Optimal FAs for 3D T1 mapping using VIBE
 
-The scripts implements the theoretical framework described in the paper:
+The scripts implement the theoretical framework described in the paper:
+
 'Optimal Flip Angles for In Vivo Liver 3D T1 Mapping and B1+ Mapping at 3T'
 
 Gabriela Belsley (1), Damian J. Tyler (1), Matthew D. Robson (1,2), Elizabeth M. Tunnicliffe (1)
