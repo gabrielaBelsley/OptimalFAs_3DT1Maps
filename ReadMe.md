@@ -28,7 +28,9 @@ Note: also download the folder DrosteEffect-BrewerMap-ca40391 (MATLAB File Excha
 This code is distributed under the MIT license. If you use it, please cite the paper (https://doi.org/10.1002/mrm.29683): 
 
 Author: Gabriela Belsley, University of Oxford
+
 gabriela.belsley@siemens-healthineers.com 
+
 gabi.belsley@gmail.com
 
 Please contact me, if you have any questions. 
