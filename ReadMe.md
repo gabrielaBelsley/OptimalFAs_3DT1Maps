@@ -25,7 +25,7 @@ Then run script varianceT1SPGR_OptimalFAs.m that finds the optimal FAs using a m
 The simulation figures from the paper (Figures 1-3) and Table 1 are generated with this script.
 Note: also download the folder DrosteEffect-BrewerMap-ca40391 (MATLAB File Exchange) in order to generate the figures.
 
-This code is distributed under the MIT license. If you use it, please cite the paper (https://doi.org/10.1002/mrm.29683): 
+This code is distributed under the Apache License. If you use it, please cite the paper (https://doi.org/10.1002/mrm.29683): 
 
 Author: Gabriela Belsley, University of Oxford
 
