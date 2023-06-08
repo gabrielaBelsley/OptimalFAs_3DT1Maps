@@ -4,6 +4,8 @@ The scripts implement the theoretical framework described in the paper:
 
 **Optimal Flip Angles for In Vivo Liver 3D T1 Mapping and B1+ Mapping at 3T**
 
+https://doi.org/10.1002/mrm.29683
+ 
 Gabriela Belsley (1), Damian J. Tyler (1), Matthew D. Robson (1,2), Elizabeth M. Tunnicliffe (1)
 
 (1) Oxford Centre for Clinical Magnetic Resonance Research, Division of
@@ -23,10 +25,11 @@ Then run script varianceT1SPGR_OptimalFAs.m that finds the optimal FAs using a m
 The simulation figures from the paper (Figures 1-3) and Table 1 are generated with this script.
 Note: also download the folder DrosteEffect-BrewerMap-ca40391 (MATLAB File Exchange) in order to generate the figures.
 
-This code is distributed under the MIT license. If you use it, please cite the code: 
+This code is distributed under the MIT license. If you use it, please cite the paper (https://doi.org/10.1002/mrm.29683): 
 
-Author: Gabriela Belsley, University of Oxford, gabriela.belsley@stx.ox.ac.uk
-OR gabi.belsley@gmail.com
+Author: Gabriela Belsley, University of Oxford
+gabriela.belsley@siemens-healthineers.com 
+gabi.belsley@gmail.com
 
 Please contact me, if you have any questions. 
 
